@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - include:
+      file: changelog/1630569000000_initdb.sql
+      relativeToChangelogFile: true
